@@ -40,13 +40,12 @@ def gcd():
 
 ## GIVEN INPUT : 
 
-![Screenshot_20230122_072954](https://user-images.githubusercontent.com/118054670/213920063-4a173887-2925-4130-808f-43d5dafbe3e3.png)
+![image](https://user-images.githubusercontent.com/118054670/213920219-e8fec56e-d5d6-4af9-9dd6-daa6b457f39c.png)
+
+## OUTPUT :
 
 
-## Output:
-
-
-![Screenshot_20230122_073036](https://user-images.githubusercontent.com/118054670/213920076-e90549d5-f541-4a3e-b9ce-419782d5a1d6.png)
+![image](https://user-images.githubusercontent.com/118054670/213920255-0262ab85-f06f-460e-b5f2-e891bb7ecb8f.png)
 
 
 ## RESULT :
