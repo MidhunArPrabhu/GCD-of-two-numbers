@@ -18,7 +18,7 @@ To write a program to find the GCD of two numbers using function.
 
 ## PROGRAM :
 
-```
+```python
 
 Program to find the gcd of two number using function.
 Developed by: MIDHUN AZHAHU RAJA P
